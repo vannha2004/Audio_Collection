@@ -139,7 +139,7 @@ st.divider()
 # 1. Name Input Section
 col1, col2, col3 = st.columns([1, 2, 1])
 with col2:
-    raw_name = st.text_input("👤 Nhập tên của bạn:", placeholder="Ví dụ: Nguyen Van A")
+    raw_name = st.text_input("👤 Nhập tên của bạn (Không dấu):", placeholder="Ví dụ: Nguyen Van A")
     safe_name = re.sub(r"[^\w -]+", "_", raw_name, flags=re.UNICODE).strip(" _-")
 
 st.write("") # Spacer
