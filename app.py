@@ -74,3 +74,7 @@ if wav_audio_data:
         st.success(f"Da luu: {filename}")
 
     st.audio(wav_audio_data, format="audio/wav")
+supabase = get_supabase_client()
+st.write("Supabase enabled:", supabase is not None)
+st.write("Has URL:", bool(os.getenv("SUPABASE_URL") or st.secrets.get("SUPABASE_URL", None)))
+st.write("Has KEY:", bool(os.getenv("SUPABASE_KEY") or st.secrets.get("SUPABASE_KEY", None)))
