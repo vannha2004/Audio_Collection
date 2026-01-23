@@ -1,10 +1,12 @@
 import os
 import re
 import random
+import io
+import wave
 from datetime import datetime
 
 import streamlit as st
-from st_audiorec import st_audiorec
+from st_audiorec import st_audiorec # Giữ nguyên thư viện để có visualizer
 from supabase import create_client, Client
 from streamlit.runtime.secrets import StreamlitSecretNotFoundError
 
@@ -22,7 +24,7 @@ st.set_page_config(
 # --- TRANSCRIPT DATA ---
 TRANSCRIPTS = [
     "Trần Quốc Toản sinh năm 1267, là con trai của Trung Thành vương.",
-    "Sử liệu không ghi rõ Trung Thành vương có tên thật là gì), nên được phong là Hoài Văn hầu.",
+    "Sử liệu không ghi rõ Trung Thành vương có tên thật là gì, nên được phong là Hoài Văn hầu.",
     "Trước khi Hoài Văn hầu chào đời 10 năm, quân, dân Đại Việt đã khiến giặc Nguyên Mông thua tan tác.",
     "Điều này càng khiến Hốt Tất Liệt nung nấu quyết tâm thôn tính Đại Việt.",
     "Ta là Hoài Văn hầu, quan gia truyền gọi tất cả vương, hầu tới họp. Ta là hầu, cớ sao không cho vào?",
@@ -31,9 +33,9 @@ TRANSCRIPTS = [
     "Trở về từ Hội nghị Bình Than, Hoài Văn hầu vẫn quyết tâm tìm cách đánh giặc cứu nước.",
     "Trần Quốc Toản còn cho thêu trên một lá cờ lớn 6 chữ vàng: “Phá cường địch, báo hoàng ân”.",
     "Cuối tháng 2 năm 1285, quân Nguyên Mông ồ ạt tấn công Đại Việt.",
-    "khi đối trận với giặc, (Hoài Văn hầu) tự mình xông lên trước quân sĩ, giặc trông thấy phải lui tránh, không dám đối địch.",
+    "Khi đối trận với giặc, Hoài Văn hầu tự mình xông lên trước quân sĩ, giặc trông thấy phải lui tránh.",
     "Chàng thiếu niên dũng mãnh Trần Quốc Toản quyết truy đuổi tới cùng.",
-    "trong lúc truy đuổi, Hoài Văn hầu Trần Quốc Toản không may hy sinh.",
+    "Trong lúc truy đuổi, Hoài Văn hầu Trần Quốc Toản không may hy sinh.",
     "Nhận được tin Hoài Văn hầu tử trận, Trần Nhân Tông rất đỗi thương tiếc.",
     "Khi đất nước sạch bóng giặc, nhà vua cử hành tang lễ rất trọng thể.",
     "Vua đích thân làm văn tế và truy tặng Trần Quốc Toản tước Hoài Văn vương."
@@ -72,7 +74,7 @@ st.markdown("""
         border-radius: 12px;
         box-shadow: 0 4px 15px rgba(0,0,0,0.05);
         text-align: center;
-        font-size: 1.3em; /* Larger font for reading */
+        font-size: 1.3em; 
         font-weight: 500;
         color: #2c3e50;
         border: 1px solid #eee;
@@ -111,6 +113,24 @@ def change_script():
     """Callback to change the current script randomly"""
     st.session_state["current_script"] = random.choice(TRANSCRIPTS)
 
+def check_name_has_accent(name):
+    """Kiểm tra xem tên có dấu hoặc ký tự đặc biệt không"""
+    if not name:
+        return False
+    # Nếu tên chứa ký tự KHÔNG phải là (a-z, A-Z, 0-9, gạch dưới, gạch ngang, khoảng trắng)
+    return not bool(re.match(r'^[a-zA-Z0-9\s\-_]+$', name))
+
+def get_audio_duration(audio_bytes):
+    """Tính độ dài file wav (giây) từ bytes"""
+    try:
+        with io.BytesIO(audio_bytes) as f:
+            with wave.open(f, 'rb') as wf:
+                frames = wf.getnframes()
+                rate = wf.getframerate()
+                return frames / float(rate)
+    except Exception:
+        return 0.0
+
 # --- INITIALIZE STATE ---
 if "current_script" not in st.session_state:
     st.session_state["current_script"] = random.choice(TRANSCRIPTS)
@@ -135,14 +155,19 @@ st.title("🎙️ Thu Thập Giọng Nói")
 st.markdown('<p class="instruction-text">Nhập tên, đọc câu mẫu bên dưới, và ghi âm.</p>', unsafe_allow_html=True)
 
 st.divider()
-
 # 1. Name Input Section
 col1, col2, col3 = st.columns([1, 2, 1])
 with col2:
-    raw_name = st.text_input("👤 Nhập tên của bạn (Không dấu):", placeholder="Ví dụ: Nguyen Van A")
-    safe_name = re.sub(r"[^\w -]+", "_", raw_name, flags=re.UNICODE).strip(" _-")
+    raw_name = st.text_input("👤 Nhập tên của bạn:", placeholder="Ví dụ: Nguyen Van A")
+    
+    # LOGIC CHECK TÊN (Cảnh báo nhẹ)
+    if raw_name and check_name_has_accent(raw_name):
+        st.warning("⚠️ Tên có dấu: Hệ thống sẽ tự động chuyển về không dấu khi lưu.")
+        
+    # Tự động tạo safe_name để dùng cho việc lưu file
+    safe_name = re.sub(r"[^\w -]+", "_", raw_name, flags=re.UNICODE).strip(" _-") if raw_name else ""
 
-st.write("") # Spacer
+st.write("") 
 
 # 2. Transcript Section (The "Script Card")
 st.markdown('<span class="script-label">Mẫu câu cần đọc</span>', unsafe_allow_html=True)
@@ -163,51 +188,61 @@ st.write("---")
 st.write("##### ⏺️ Bảng điều khiển ghi âm")
 rec_col1, rec_col2, rec_col3 = st.columns([1, 6, 1])
 with rec_col2:
+    # --- YÊU CẦU (1): GIỮ VISUALIZER ---
     wav_audio_data = st_audiorec()
 
 # --- LOGIC & SAVING ---
-if wav_audio_data:
+if wav_audio_data is not None:
+    # Logic 1: Kiểm tra xem đã nhập tên chưa
     if not safe_name:
         st.error("⚠️ Vui lòng nhập tên của bạn ở trên trước khi lưu file.")
         st.stop()
+        
+    # --- YÊU CẦU (2): KIỂM TRA ĐỘ DÀI < 3s ---
+    duration = get_audio_duration(wav_audio_data)
+    if duration < 3.0:
+        st.error(f"⚠️ Bản ghi quá ngắn ({duration:.1f}s). Vui lòng đọc bình tĩnh và đầy đủ câu (tối thiểu 3s).")
+        st.stop() # Dừng tiến trình, không lưu
 
+    # Nếu file hợp lệ, tiến hành lưu
     audio_hash = hash(wav_audio_data)
     last_hash = st.session_state.get("last_audio_hash")
 
     if audio_hash != last_hash:
-        now = datetime.now()
-        time_part = now.strftime("%H%M%S")
-        date_part = now.strftime("%d%m%Y")
-        
-        # Include a snippet of text in filename? (Optional, kept simple for now)
-        filename = f"{safe_name} - {time_part} - {date_part}.wav"
-        
-        folder_path = os.path.join(DATA_DIR, safe_name)
-        os.makedirs(folder_path, exist_ok=True)
-        local_path = os.path.join(folder_path, filename)
-        storage_path = f"{safe_name}/{filename}"
+        # --- YÊU CẦU (3): HIỆU ỨNG LOADING ---
+        with st.spinner("⏳ Đang xử lý và lưu dữ liệu..."):
+            now = datetime.now()
+            time_part = now.strftime("%H%M%S")
+            date_part = now.strftime("%d%m%Y")
+            
+            filename = f"{safe_name} - {time_part} - {date_part}.wav"
+            
+            folder_path = os.path.join(DATA_DIR, safe_name)
+            os.makedirs(folder_path, exist_ok=True)
+            local_path = os.path.join(folder_path, filename)
+            storage_path = f"{safe_name}/{filename}"
 
-        # Save locally
-        with open(local_path, "wb") as f:
-            f.write(wav_audio_data)
+            # Save locally
+            with open(local_path, "wb") as f:
+                f.write(wav_audio_data)
 
-        # Upload to Supabase
-        upload_success = False
-        if supabase:
-            try:
-                # Add metadata about which text was read? (Optional feature)
-                supabase.storage.from_(bucket).upload(
-                    storage_path,
-                    wav_audio_data,
-                    {"content-type": "audio/wav"},
-                )
-                upload_success = True
-            except Exception as exc:
-                st.error(f"⚠️ Lỗi upload Supabase: {exc}")
+            # Upload to Supabase
+            upload_success = False
+            if supabase:
+                try:
+                    supabase.storage.from_(bucket).upload(
+                        storage_path,
+                        wav_audio_data,
+                        {"content-type": "audio/wav"},
+                    )
+                    upload_success = True
+                except Exception as exc:
+                    st.error(f"⚠️ Lỗi upload Supabase: {exc}")
 
-        st.session_state["last_audio_hash"] = audio_hash
-        
-        if upload_success:
-            st.toast(f"✅ Đã lưu lên Cloud: {filename}", icon="☁️")
-        else:
-            st.toast(f"💾 Đã lưu nội bộ: {filename}", icon="💾")
+            st.session_state["last_audio_hash"] = audio_hash
+            
+            # Thông báo thành công
+            if upload_success:
+                st.toast(f"✅ Đã lưu lên Cloud: {filename}", icon="☁️")
+            else:
+                st.toast(f"💾 Đã lưu nội bộ: {filename}", icon="💾")
