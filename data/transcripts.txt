@@ -1,0 +1,301 @@
+50 Transcripts (Single Speaker) — Dataset: data.scam2
+Transcript 01 — Domain: meeting — Tỉnh: Sơn La
+Số từ: 154
+Từ địa phương: 3 (mận-hậu; cá-suối; sữa-Mộc-Châu) | Từ mượn/phiên âm: 1 (gia-lô)
+(Tỉnh: Sơn La)
+Tôi muốn kể lại một tình huống lừa đảo lợi dụng sự cố mất an toàn thông tin mà ai cũng có thể gặp: đồng nghiệp giả mạo gọi nói thư điện tử công ty bị rò rỉ và yêu cầu gửi file excel chứa dữ liệu nhân viên. Họ xoay quanh các mồi như số bảo hiểm, mã, rồi ép tôi quyết định rất nhanh. Tôi chỉ dùng gia-lô để tự đối chiếu, không làm theo hướng dẫn của người lạ. Tôi tự đặt quy tắc: không đọc mã xác thực, không chuyển tiền vào tài khoản cá nhân, và luôn gọi lại số tổng đài từ nguồn chính thức. Nếu họ đưa đường dẫn rút gọn hoặc đòi thông tin nhạy cảm, tôi coi đó là tín hiệu đỏ và dừng lại ngay. Nghĩ tới quê Sơn La, tôi nhớ mận-hậu, cá-suối, sữa-Mộc-Châu nên càng giữ nhịp chậm và kiểm chứng trước.
+
+Transcript 02 — Domain: interview — Tỉnh: Hà Nội
+Số từ: 160
+Từ địa phương: 3 (trà-chanh; phố-cổ; bún-thang) | Từ mượn/phiên âm: 0 (—)
+(Tỉnh: Hà Nội)
+Sáng nay tôi gặp một tình huống lừa đảo phòng cháy chữa cháy: cuộc gọi từ kẻ lừa đảo hứa giảm tiền phạt nếu chủ doanh nghiệp nhỏ thanh toán ngay bằng thẻ. Họ xoay quanh các mồi như bình chữa cháy hết hạn sử dụng, mã mã xác thực, rồi ép tôi quyết định rất nhanh. Tôi tự đối chiếu bằng kênh chính thống, không làm theo hướng dẫn của người lạ. Nếu họ đưa đường dẫn rút gọn hoặc đòi thông tin nhạy cảm, tôi coi đó là tín hiệu đỏ và dừng lại ngay. Một câu hỏi như 'gửi xác nhận bằng thư điện tử từ tên miền công ty' thường làm kẻ gian lúng túng. Nghĩ tới quê Hà Nội, tôi nhớ trà-chanh, phố-cổ, bún-thang nên càng giữ nhịp chậm và kiểm chứng trước. Cuối cùng, tôi kết thúc cuộc gọi, gọi lại số chính thức, và nhắc người thân đề phòng kịch bản tương tự.
+
+Transcript 03 — Domain: casualcasual_conversation — Tỉnh: Thanh Hóa
+Số từ: 144
+Từ địa phương: 3 (chè-lam; Sầm-Sơn; bánh-răng-bừa) | Từ mượn/phiên âm: 2 (gia-lô; in-tơ-nét)
+(Tỉnh: Thanh Hóa)
+Hôm nay tôi tóm tắt một tình huống lừa đảo sử dụng trang trang mạng giả mạo và bài học tôi rút ra từ đó. Họ xoay quanh các mồi như gửi đường dẫn, số thẻ, rồi ép tôi quyết định rất nhanh. Tôi chỉ dùng gia-lô, in-tơ-nét để tự đối chiếu, không làm theo hướng dẫn của người lạ. Nếu họ đưa đường dẫn rút gọn hoặc đòi thông tin nhạy cảm, tôi coi đó là tín hiệu đỏ và dừng lại ngay. Điểm chung của các cú lừa là họ tạo cảm giác gấp, khiến mình mất thời gian kiểm chứng. Nghĩ tới quê Thanh Hóa, tôi nhớ chè-lam, Sầm-Sơn, bánh-răng-bừa nên càng giữ nhịp chậm và kiểm chứng trước. Cuối cùng, tôi kết thúc cuộc gọi, gọi lại số chính thức, và nhắc người thân đề phòng kịch bản tương tự.
+
+Transcript 04 — Domain: tv_show — Tỉnh: Hòa Bình
+Số từ: 149
+Từ địa phương: 3 (lợn-mán; măng-chua; cơm-lam) | Từ mượn/phiên âm: 3 (phây-búc; ô-tê-pê; gia-lô)
+(Tỉnh: Hòa Bình)
+Hôm nay tôi tóm tắt một tình huống lừa đảo xuất khẩu lao động và bài học tôi rút ra từ đó. Họ xoay quanh các mồi như áp lực, hợp đồng điện tử, rồi ép tôi quyết định rất nhanh. Tôi chỉ dùng phây-búc, ô-tê-pê, gia-lô để tự đối chiếu, không làm theo hướng dẫn của người lạ. Tôi tự đặt quy tắc: không đọc mã xác thực, không chuyển tiền vào tài khoản cá nhân, và luôn gọi lại số tổng đài từ nguồn chính thức. Khi bình tĩnh, mình sẽ thấy câu chuyện thường thiếu hóa đơn, thiếu hợp đồng, hoặc thông tin không khớp. Nghĩ tới quê Hòa Bình, tôi nhớ lợn-mán, măng-chua, cơm-lam nên càng giữ nhịp chậm và kiểm chứng trước. Cuối cùng, tôi kết thúc cuộc gọi, gọi lại số chính thức, và nhắc người thân đề phòng kịch bản tương tự.
+
+Transcript 05 — Domain: announcement — Tỉnh: Phú Thọ
+Số từ: 147
+Từ địa phương: 3 (cọ-om; hát-xoan; Đền-Hùng) | Từ mượn/phiên âm: 2 (quờ-rờ; lô-gin)
+(Tỉnh: Phú Thọ)
+Sáng nay tôi gặp một tình huống lừa đảo tặng quà từ các sàn thương mại điển tử, nhãn hàng: bạn nhận cuộc gọi bảo cần xác nhận thông tin thẻ để nhận quà khuyến mãi của shop online. Họ xoay quanh các mồi như nghi ngờ, chương trình có hạn, rồi ép tôi quyết định rất nhanh. Tôi chỉ dùng quờ-rờ, lô-gin để tự đối chiếu, không làm theo hướng dẫn của người lạ. Tôi tự đặt quy tắc: không đọc mã xác thực, không chuyển tiền vào tài khoản cá nhân, và luôn gọi lại số tổng đài từ nguồn chính thức. Nếu họ đưa đường dẫn rút gọn hoặc đòi thông tin nhạy cảm, tôi coi đó là tín hiệu đỏ và dừng lại ngay. Nghĩ tới quê Phú Thọ, tôi nhớ cọ-om, hát-xoan, Đền-Hùng nên càng giữ nhịp chậm và kiểm chứng trước.
+
+Transcript 06 — Domain: podcast — Tỉnh: Quảng Ninh
+Số từ: 153
+Từ địa phương: 3 (ngán; sá-sùng; Hạ-Long) | Từ mượn/phiên âm: 0 (—)
+(Tỉnh: Quảng Ninh)
+Tôi muốn kể lại một tình huống lừa đảo lợi dụng sự cố mất an toàn thông tin mà ai cũng có thể gặp: người dùng nhận cuộc gọi tự xưng là nhân viên apple/google, báo tài khoản gặp rủi ro và yêu cầu cài ứng dụng để 'sửa lỗi' và lấy mã xác thực.. Họ xoay quanh các mồi như tin nhắn, chặn mã lạ, rồi ép tôi quyết định rất nhanh. Tôi tự đối chiếu bằng kênh chính thống, không làm theo hướng dẫn của người lạ. Nếu họ đưa đường dẫn rút gọn hoặc đòi thông tin nhạy cảm, tôi coi đó là tín hiệu đỏ và dừng lại ngay. Tôi ưu tiên kênh chính thống: ứng dụng của ngân hàng, trang chính thức, hoặc tổng đài công bố công khai. Nghĩ tới quê Quảng Ninh, tôi nhớ ngán, sá-sùng, Hạ-Long nên càng giữ nhịp chậm và kiểm chứng trước.
+
+Transcript 07 — Domain: meeting — Tỉnh: Lào Cai
+Số từ: 145
+Từ địa phương: 3 (thắng-cố; chợ-Bắc-Hà; rượu-ngô) | Từ mượn/phiên âm: 0 (—)
+(Tỉnh: Lào Cai)
+Tôi muốn kể lại một tình huống lừa đảo sử dụng trang trang mạng giả mạo mà ai cũng có thể gặp: người bán ô tô cá nhân nhận cuộc gọi thỏa thuận giao dịch rồi được gửi đường dẫn trang chính thức giả mạo để đặt cọc. Họ xoay quanh các mồi như trang mạng giả mạo, xác thực tin nhắn, rồi ép tôi quyết định rất nhanh. Tôi tự đối chiếu bằng kênh chính thống, không làm theo hướng dẫn của người lạ. Tôi ghi lại số điện thoại, nội dung họ nói, rồi lưu bằng chứng để báo cáo khi cần. Một câu hỏi như 'gửi xác nhận bằng thư điện tử từ tên miền công ty' thường làm kẻ gian lúng túng. Nghĩ tới quê Lào Cai, tôi nhớ thắng-cố, chợ-Bắc-Hà, rượu-ngô nên càng giữ nhịp chậm và kiểm chứng trước.
+
+Transcript 08 — Domain: meeting — Tỉnh: Hà Nội
+Số từ: 142
+Từ địa phương: 3 (cốm-làng-Vòng; bún-thang; phố-cổ) | Từ mượn/phiên âm: 1 (lô-gin)
+(Tỉnh: Hà Nội)
+Hôm nay tôi tóm tắt một tình huống lừa đảo ứng dụng sử dụng ví trả sau, ví điện tử và bài học tôi rút ra từ đó. Họ xoay quanh các mồi như mở ví, quên ví, rồi ép tôi quyết định rất nhanh. Tôi chỉ dùng lô-gin để tự đối chiếu, không làm theo hướng dẫn của người lạ. Tôi ghi lại số điện thoại, nội dung họ nói, rồi lưu bằng chứng để báo cáo khi cần. Tôi ưu tiên kênh chính thống: ứng dụng của ngân hàng, trang chính thức, hoặc tổng đài công bố công khai. Nghĩ tới quê Hà Nội, tôi nhớ cốm-làng-Vòng, bún-thang, phố-cổ nên càng giữ nhịp chậm và kiểm chứng trước. Cuối cùng, tôi kết thúc cuộc gọi, gọi lại số chính thức, và nhắc người thân đề phòng kịch bản tương tự.
+
+Transcript 09 — Domain: podcast — Tỉnh: Hòa Bình
+Số từ: 159
+Từ địa phương: 3 (cơm-lam; suối-khoáng; măng-chua) | Từ mượn/phiên âm: 3 (phây-búc; xì-trát; lô-gin)
+(Tỉnh: Hòa Bình)
+Hôm nay tôi tóm tắt một tình huống lừa đảo đóng phí an sinh xã hội và bài học tôi rút ra từ đó. Họ xoay quanh các mồi như tạm ngưng chi trả, tạm dừng chi trả trợ cấp, rồi ép tôi quyết định rất nhanh. Tôi chỉ dùng phây-búc, xì-trát, lô-gin để tự đối chiếu, không làm theo hướng dẫn của người lạ. Tôi tự đặt quy tắc: không đọc mã xác thực, không chuyển tiền vào tài khoản cá nhân, và luôn gọi lại số tổng đài từ nguồn chính thức. Nếu họ đưa đường dẫn rút gọn hoặc đòi thông tin nhạy cảm, tôi coi đó là tín hiệu đỏ và dừng lại ngay. Nghĩ tới quê Hòa Bình, tôi nhớ cơm-lam, suối-khoáng, măng-chua nên càng giữ nhịp chậm và kiểm chứng trước. Cuối cùng, tôi kết thúc cuộc gọi, gọi lại số chính thức, và nhắc người thân đề phòng kịch bản tương tự.
+
+Transcript 10 — Domain: read_speech — Tỉnh: Sơn La
+Số từ: 145
+Từ địa phương: 3 (sữa-Mộc-Châu; cá-suối; chè-Shan) | Từ mượn/phiên âm: 1 (gia-lô)
+(Tỉnh: Sơn La)
+Hôm nay tôi tóm tắt một tình huống lừa đảo mua hàng và bài học tôi rút ra từ đó. Họ xoay quanh các mồi như mã mã xác thực, 4 số cuối, rồi ép tôi quyết định rất nhanh. Tôi chỉ dùng gia-lô để tự đối chiếu, không làm theo hướng dẫn của người lạ. Tôi tự đặt quy tắc: không đọc mã xác thực, không chuyển tiền vào tài khoản cá nhân, và luôn gọi lại số tổng đài từ nguồn chính thức. Điểm chung của các cú lừa là họ tạo cảm giác gấp, khiến mình mất thời gian kiểm chứng. Nghĩ tới quê Sơn La, tôi nhớ sữa-Mộc-Châu, cá-suối, chè-Shan nên càng giữ nhịp chậm và kiểm chứng trước. Cuối cùng, tôi kết thúc cuộc gọi, gọi lại số chính thức, và nhắc người thân đề phòng kịch bản tương tự.
+
+Transcript 11 — Domain: podcast — Tỉnh: Điện Biên
+Số từ: 152
+Từ địa phương: 3 (Mường-Thanh; xôi-nếp-nương; mắc-khén) | Từ mượn/phiên âm: 1 (gia-lô)
+(Tỉnh: Điện Biên)
+Trong lúc đang làm việc, tôi bị kéo vào một tình huống lừa đảo mua hàng: khách hàng mất cảnh giác bị dụ mua phiếu quà giảm giá bằng cách cung cấp mã thẻ. Họ xoay quanh các mồi như phiếu giảm giá đặc biệt, thẻ quà tặng, rồi ép tôi quyết định rất nhanh. Tôi chỉ dùng gia-lô để tự đối chiếu, không làm theo hướng dẫn của người lạ. Tôi ưu tiên kênh chính thống: ứng dụng của ngân hàng, trang chính thức, hoặc tổng đài công bố công khai. Tôi ghi lại số điện thoại, nội dung họ nói, rồi lưu bằng chứng để báo cáo khi cần. Nghĩ tới quê Điện Biên, tôi nhớ Mường-Thanh, xôi-nếp-nương, mắc-khén nên càng giữ nhịp chậm và kiểm chứng trước. Cuối cùng, tôi kết thúc cuộc gọi, gọi lại số chính thức, và nhắc người thân đề phòng kịch bản tương tự.
+
+Transcript 12 — Domain: Weather — Tỉnh: Hòa Bình
+Số từ: 145
+Từ địa phương: 3 (lợn-mán; cơm-lam; suối-khoáng) | Từ mượn/phiên âm: 3 (lô-gin; in-tơ-nét; phây-búc)
+(Tỉnh: Hòa Bình)
+Sáng nay tôi gặp một tình huống lừa đảo tặng quà từ các sàn thương mại điển tử, nhãn hàng: người gọi tự xưng nhân viên đối tác vận chuyển thông báo quà tặng bị giữ và yêu cầu thanh toán. Họ xoay quanh các mồi như thông quan quà tặng, trang mạng bảo trì, rồi ép tôi quyết định rất nhanh. Tôi chỉ dùng lô-gin, in-tơ-nét, phây-búc để tự đối chiếu, không làm theo hướng dẫn của người lạ. Nếu họ đưa đường dẫn rút gọn hoặc đòi thông tin nhạy cảm, tôi coi đó là tín hiệu đỏ và dừng lại ngay. Một câu hỏi như 'gửi xác nhận bằng thư điện tử từ tên miền công ty' thường làm kẻ gian lúng túng. Nghĩ tới quê Hòa Bình, tôi nhớ lợn-mán, cơm-lam, suối-khoáng nên càng giữ nhịp chậm và kiểm chứng trước.
+
+Transcript 13 — Domain: interview — Tỉnh: Bắc Ninh
+Số từ: 160
+Từ địa phương: 3 (quan-họ; nem-Bùi; bánh-phu-thê) | Từ mượn/phiên âm: 3 (mo-mo; ô-tê-pê; in-tơ-nét)
+(Tỉnh: Bắc Ninh)
+Tôi muốn kể lại một tình huống lừa đảo vay vốn mà ai cũng có thể gặp: giả danh cán bộ ngân hàng gọi người trẻ thông báo hồ sơ vay online gặp lỗi và yêu cầu mã xác thực. Họ xoay quanh các mồi như ứng dụng lạ, lừa đảo, rồi ép tôi quyết định rất nhanh. Tôi chỉ dùng mo-mo, ô-tê-pê, in-tơ-nét để tự đối chiếu, không làm theo hướng dẫn của người lạ. Nếu họ đưa đường dẫn rút gọn hoặc đòi thông tin nhạy cảm, tôi coi đó là tín hiệu đỏ và dừng lại ngay. Tôi ghi lại số điện thoại, nội dung họ nói, rồi lưu bằng chứng để báo cáo khi cần. Nghĩ tới quê Bắc Ninh, tôi nhớ quan-họ, nem-Bùi, bánh-phu-thê nên càng giữ nhịp chậm và kiểm chứng trước. Cuối cùng, tôi kết thúc cuộc gọi, gọi lại số chính thức, và nhắc người thân đề phòng kịch bản tương tự.
+
+Transcript 14 — Domain: livestream — Tỉnh: Hà Tĩnh
+Số từ: 148
+Từ địa phương: 3 (ram-bánh-mướt; Hồng-Lĩnh; kẹo-cu-đơ) | Từ mượn/phiên âm: 0 (—)
+(Tỉnh: Hà Tĩnh)
+Hôm nay tôi tóm tắt một tình huống lừa đảo vào hội nhóm chứng khoán và bài học tôi rút ra từ đó. Họ xoay quanh các mồi như chuyển tiền, quảng cáo lừa đảo, rồi ép tôi quyết định rất nhanh. Tôi tự đối chiếu bằng kênh chính thống, không làm theo hướng dẫn của người lạ. Khi bình tĩnh, mình sẽ thấy câu chuyện thường thiếu hóa đơn, thiếu hợp đồng, hoặc thông tin không khớp. Tôi tự đặt quy tắc: không đọc mã xác thực, không chuyển tiền vào tài khoản cá nhân, và luôn gọi lại số tổng đài từ nguồn chính thức. Nghĩ tới quê Hà Tĩnh, tôi nhớ ram-bánh-mướt, Hồng-Lĩnh, kẹo-cu-đơ nên càng giữ nhịp chậm và kiểm chứng trước. Cuối cùng, tôi kết thúc cuộc gọi, gọi lại số chính thức, và nhắc người thân đề phòng kịch bản tương tự.
+
+Transcript 15 — Domain: read_speech — Tỉnh: Quảng Ninh
+Số từ: 146
+Từ địa phương: 3 (Hạ-Long; chả-mực; sá-sùng) | Từ mượn/phiên âm: 2 (gia-lô; mo-mo)
+(Tỉnh: Quảng Ninh)
+Sáng nay tôi gặp một tình huống lừa đảo sử dụng trang trang mạng giả mạo: người mới chuyển đến thành phố nhận cuộc gọi giới thiệu dịch vụ mạng yêu cầu mở tài khoản trên trang chính thức giả mạo. Họ xoay quanh các mồi như lấy mã xác thực, trang giả mạo, rồi ép tôi quyết định rất nhanh. Tôi chỉ dùng gia-lô, mo-mo để tự đối chiếu, không làm theo hướng dẫn của người lạ. Tôi tự đặt quy tắc: không đọc mã xác thực, không chuyển tiền vào tài khoản cá nhân, và luôn gọi lại số tổng đài từ nguồn chính thức. Khi bình tĩnh, mình sẽ thấy câu chuyện thường thiếu hóa đơn, thiếu hợp đồng, hoặc thông tin không khớp. Nghĩ tới quê Quảng Ninh, tôi nhớ Hạ-Long, chả-mực, sá-sùng nên càng giữ nhịp chậm và kiểm chứng trước.
+
+Transcript 16 — Domain: podcast — Tỉnh: Lai Châu
+Số từ: 141
+Từ địa phương: 3 (măng-đắng; chè-Tam-Đường; chợ-Tam-Đường) | Từ mượn/phiên âm: 1 (gia-lô)
+(Tỉnh: Lai Châu)
+Tôi muốn kể lại một tình huống lừa đảo tặng quà từ các sàn thương mại điển tử, nhãn hàng mà ai cũng có thể gặp: mạo danh tổng đài giao hàng thông báo đơn hàng có quà tặng và yêu cầu cài ứng dụng từ xa. Họ xoay quanh các mồi như mã vận đơn, phiếu quà, rồi ép tôi quyết định rất nhanh. Tôi chỉ dùng gia-lô để tự đối chiếu, không làm theo hướng dẫn của người lạ. Khi bình tĩnh, mình sẽ thấy câu chuyện thường thiếu hóa đơn, thiếu hợp đồng, hoặc thông tin không khớp. Tôi ưu tiên kênh chính thống: ứng dụng của ngân hàng, trang chính thức, hoặc tổng đài công bố công khai. Nghĩ tới quê Lai Châu, tôi nhớ măng-đắng, chè-Tam-Đường, chợ-Tam-Đường nên càng giữ nhịp chậm và kiểm chứng trước.
+
+Transcript 17 — Domain: street_interview — Tỉnh: Lai Châu
+Số từ: 142
+Từ địa phương: 3 (chè-Tam-Đường; măng-đắng; đèo-Ô-Quy-Hồ) | Từ mượn/phiên âm: 3 (phây-búc; in-tơ-nét; ô-tê-pê)
+(Tỉnh: Lai Châu)
+Sáng nay tôi gặp một tình huống lừa đảo cài ứng dụng độc hại: người dùng mạng xã hội nhận cuộc gọi mời cài ứng dụng bình chọn để nhận quà tặng giá trị. Họ xoay quanh các mồi như mã mã xác thực, cài ứng dụng, rồi ép tôi quyết định rất nhanh. Tôi chỉ dùng phây-búc, in-tơ-nét, ô-tê-pê để tự đối chiếu, không làm theo hướng dẫn của người lạ. Tôi tự đặt quy tắc: không đọc mã xác thực, không chuyển tiền vào tài khoản cá nhân, và luôn gọi lại số tổng đài từ nguồn chính thức. Một câu hỏi như 'gửi xác nhận bằng thư điện tử từ tên miền công ty' thường làm kẻ gian lúng túng. Nghĩ tới quê Lai Châu, tôi nhớ chè-Tam-Đường, măng-đắng, đèo-Ô-Quy-Hồ nên càng giữ nhịp chậm và kiểm chứng trước.
+
+Transcript 18 — Domain: tv_show — Tỉnh: Thanh Hóa
+Số từ: 156
+Từ địa phương: 3 (bánh-răng-bừa; nem-chua; Sầm-Sơn) | Từ mượn/phiên âm: 2 (ô-tê-pê; lô-gin)
+(Tỉnh: Thanh Hóa)
+Sáng nay tôi gặp một tình huống lừa đảo sử dụng trang trang mạng giả mạo: cha mẹ nhận cuộc gọi nói con bị bắt và yêu cầu nộp tiền qua cổng trang mạng giả mạo. Họ xoay quanh các mồi như mã mã xác thực, cổng nộp trực tuyến, rồi ép tôi quyết định rất nhanh. Tôi chỉ dùng ô-tê-pê, lô-gin để tự đối chiếu, không làm theo hướng dẫn của người lạ. Điểm chung của các cú lừa là họ tạo cảm giác gấp, khiến mình mất thời gian kiểm chứng. Một câu hỏi như 'gửi xác nhận bằng thư điện tử từ tên miền công ty' thường làm kẻ gian lúng túng. Nghĩ tới quê Thanh Hóa, tôi nhớ bánh-răng-bừa, nem-chua, Sầm-Sơn nên càng giữ nhịp chậm và kiểm chứng trước. Cuối cùng, tôi kết thúc cuộc gọi, gọi lại số chính thức, và nhắc người thân đề phòng kịch bản tương tự.
+
+Transcript 19 — Domain: read_speech — Tỉnh: Thái Nguyên
+Số từ: 160
+Từ địa phương: 3 (chợ-phiên; đồi-chè; chè-móc-câu) | Từ mượn/phiên âm: 1 (gia-lô)
+(Tỉnh: Thái Nguyên)
+Sáng nay tôi gặp một tình huống lừa đảo lợi dụng sự cố mất an toàn thông tin: người tự xưng là cảnh sát thông báo bằng chứng lộ thông tin cá nhân và yêu cầu nộp tiền bảo lãnh. Họ xoay quanh các mồi như giao dịch chuyển khoản, mã xác thực, rồi ép tôi quyết định rất nhanh. Tôi chỉ dùng gia-lô để tự đối chiếu, không làm theo hướng dẫn của người lạ. Nếu họ đưa đường dẫn rút gọn hoặc đòi thông tin nhạy cảm, tôi coi đó là tín hiệu đỏ và dừng lại ngay. Tôi ghi lại số điện thoại, nội dung họ nói, rồi lưu bằng chứng để báo cáo khi cần. Nghĩ tới quê Thái Nguyên, tôi nhớ chợ-phiên, đồi-chè, chè-móc-câu nên càng giữ nhịp chậm và kiểm chứng trước. Cuối cùng, tôi kết thúc cuộc gọi, gọi lại số chính thức, và nhắc người thân đề phòng kịch bản tương tự.
+
+Transcript 20 — Domain: street_interview — Tỉnh: Hải Phòng
+Số từ: 160
+Từ địa phương: 3 (bánh-đa-cua; nem-cua-bể; dừa-dầm) | Từ mượn/phiên âm: 0 (—)
+(Tỉnh: Hải Phòng)
+Tôi muốn kể lại một tình huống lừa đảo đóng phí an sinh xã hội mà ai cũng có thể gặp: người gọi nói là cán bộ kiểm tra thuế yêu cầu đóng phí an sinh xã hội cho chủ doanh nghiệp nhỏ. Họ xoay quanh các mồi như thanh toán, khoản nợ, rồi ép tôi quyết định rất nhanh. Tôi tự đối chiếu bằng kênh chính thống, không làm theo hướng dẫn của người lạ. Nếu họ đưa đường dẫn rút gọn hoặc đòi thông tin nhạy cảm, tôi coi đó là tín hiệu đỏ và dừng lại ngay. Điểm chung của các cú lừa là họ tạo cảm giác gấp, khiến mình mất thời gian kiểm chứng. Nghĩ tới quê Hải Phòng, tôi nhớ bánh-đa-cua, nem-cua-bể, dừa-dầm nên càng giữ nhịp chậm và kiểm chứng trước. Cuối cùng, tôi kết thúc cuộc gọi, gọi lại số chính thức, và nhắc người thân đề phòng kịch bản tương tự.
+
+Transcript 21 — Domain: video_call — Tỉnh: Nghệ An
+Số từ: 142
+Từ địa phương: 3 (cửa-Lò; cháo-lươn; giò-bê) | Từ mượn/phiên âm: 0 (—)
+(Tỉnh: Nghệ An)
+Tôi muốn kể lại một tình huống lừa đảo trúng thưởng mà ai cũng có thể gặp: nhận cuộc gọi sau khi tham gia khuyến mãi tại siêu thị nói bạn trúng thưởng thẻ quà và yêu cầu mã mã xác thực. Họ xoay quanh các mồi như quay số, e-phiếu quà, rồi ép tôi quyết định rất nhanh. Tôi tự đối chiếu bằng kênh chính thống, không làm theo hướng dẫn của người lạ. Tôi ghi lại số điện thoại, nội dung họ nói, rồi lưu bằng chứng để báo cáo khi cần. Tôi tự đặt quy tắc: không đọc mã xác thực, không chuyển tiền vào tài khoản cá nhân, và luôn gọi lại số tổng đài từ nguồn chính thức. Nghĩ tới quê Nghệ An, tôi nhớ cửa-Lò, cháo-lươn, giò-bê nên càng giữ nhịp chậm và kiểm chứng trước.
+
+Transcript 22 — Domain: casualcasual_conversation — Tỉnh: Lào Cai
+Số từ: 144
+Từ địa phương: 3 (rượu-ngô; Sa-Pa; thắng-cố) | Từ mượn/phiên âm: 2 (xì-trát; in-tơ-nét)
+(Tỉnh: Lào Cai)
+Hôm nay tôi tóm tắt một tình huống lừa đảo vay vốn và bài học tôi rút ra từ đó. Họ xoay quanh các mồi như cài ứng dụng, xác thực danh tính, rồi ép tôi quyết định rất nhanh. Tôi chỉ dùng xì-trát, in-tơ-nét để tự đối chiếu, không làm theo hướng dẫn của người lạ. Nếu họ đưa đường dẫn rút gọn hoặc đòi thông tin nhạy cảm, tôi coi đó là tín hiệu đỏ và dừng lại ngay. Một câu hỏi như 'gửi xác nhận bằng thư điện tử từ tên miền công ty' thường làm kẻ gian lúng túng. Nghĩ tới quê Lào Cai, tôi nhớ rượu-ngô, Sa-Pa, thắng-cố nên càng giữ nhịp chậm và kiểm chứng trước. Cuối cùng, tôi kết thúc cuộc gọi, gọi lại số chính thức, và nhắc người thân đề phòng kịch bản tương tự.
+
+Transcript 23 — Domain: video_call — Tỉnh: Nghệ An
+Số từ: 158
+Từ địa phương: 3 (giò-bê; cháo-lươn; nhút-Thanh-Chương) | Từ mượn/phiên âm: 0 (—)
+(Tỉnh: Nghệ An)
+Tôi muốn kể lại một tình huống lừa đảo trúng thưởng mà ai cũng có thể gặp: người gọi nói là đại lý quảng cáo thông báo bạn trúng thưởng khi tham gia minigame trên mạng xã hội. Họ xoay quanh các mồi như nhận mã xác thực, file hợp đồng tài trợ, rồi ép tôi quyết định rất nhanh. Tôi tự đối chiếu bằng kênh chính thống, không làm theo hướng dẫn của người lạ. Điểm chung của các cú lừa là họ tạo cảm giác gấp, khiến mình mất thời gian kiểm chứng. Một câu hỏi như 'gửi xác nhận bằng thư điện tử từ tên miền công ty' thường làm kẻ gian lúng túng. Nghĩ tới quê Nghệ An, tôi nhớ giò-bê, cháo-lươn, nhút-Thanh-Chương nên càng giữ nhịp chậm và kiểm chứng trước. Cuối cùng, tôi kết thúc cuộc gọi, gọi lại số chính thức, và nhắc người thân đề phòng kịch bản tương tự.
+
+Transcript 24 — Domain: street_interview — Tỉnh: Hà Nội
+Số từ: 142
+Từ địa phương: 3 (bún-thang; phố-cổ; cốm-làng-Vòng) | Từ mượn/phiên âm: 0 (—)
+(Tỉnh: Hà Nội)
+Tôi muốn kể lại một tình huống lừa đảo vào hội nhóm chứng khoán mà ai cũng có thể gặp: cuộc gọi giả danh cơ quan quản lý đe dọa và yêu cầu vào nhóm chứng khoán để giải quyết rủi ro pháp lý. Họ xoay quanh các mồi như ký xác nhận, rửa tiền, rồi ép tôi quyết định rất nhanh. Tôi tự đối chiếu bằng kênh chính thống, không làm theo hướng dẫn của người lạ. Tôi ưu tiên kênh chính thống: ứng dụng của ngân hàng, trang chính thức, hoặc tổng đài công bố công khai. Nếu họ đưa đường dẫn rút gọn hoặc đòi thông tin nhạy cảm, tôi coi đó là tín hiệu đỏ và dừng lại ngay. Nghĩ tới quê Hà Nội, tôi nhớ bún-thang, phố-cổ, cốm-làng-Vòng nên càng giữ nhịp chậm và kiểm chứng trước.
+
+Transcript 25 — Domain: interview — Tỉnh: Lào Cai
+Số từ: 146
+Từ địa phương: 3 (chợ-Bắc-Hà; thắng-cố; rượu-ngô) | Từ mượn/phiên âm: 1 (ô-tê-pê)
+(Tỉnh: Lào Cai)
+Tôi muốn kể lại một tình huống lừa đảo đóng phí an sinh xã hội mà ai cũng có thể gặp: cuộc gọi mạo danh trung tâm y tế nói không được chữa bệnh nếu chưa đóng phí an sinh xã hội. Họ xoay quanh các mồi như xác minh danh tính, hỗ trợ tài chính, rồi ép tôi quyết định rất nhanh. Tôi chỉ dùng ô-tê-pê để tự đối chiếu, không làm theo hướng dẫn của người lạ. Tôi tự đặt quy tắc: không đọc mã xác thực, không chuyển tiền vào tài khoản cá nhân, và luôn gọi lại số tổng đài từ nguồn chính thức. Điểm chung của các cú lừa là họ tạo cảm giác gấp, khiến mình mất thời gian kiểm chứng. Nghĩ tới quê Lào Cai, tôi nhớ chợ-Bắc-Hà, thắng-cố, rượu-ngô nên càng giữ nhịp chậm và kiểm chứng trước.
+
+Transcript 26 — Domain: street_interview — Tỉnh: Phú Thọ
+Số từ: 141
+Từ địa phương: 3 (Đền-Hùng; cọ-om; hát-xoan) | Từ mượn/phiên âm: 1 (lô-gin)
+(Tỉnh: Phú Thọ)
+Hôm nay tôi tóm tắt một tình huống lừa đảo đóng phí an sinh xã hội và bài học tôi rút ra từ đó. Họ xoay quanh các mồi như số tài khoản nhận trợ cấp, tổng đài, rồi ép tôi quyết định rất nhanh. Tôi chỉ dùng lô-gin để tự đối chiếu, không làm theo hướng dẫn của người lạ. Tôi ghi lại số điện thoại, nội dung họ nói, rồi lưu bằng chứng để báo cáo khi cần. Khi bình tĩnh, mình sẽ thấy câu chuyện thường thiếu hóa đơn, thiếu hợp đồng, hoặc thông tin không khớp. Nghĩ tới quê Phú Thọ, tôi nhớ Đền-Hùng, cọ-om, hát-xoan nên càng giữ nhịp chậm và kiểm chứng trước. Cuối cùng, tôi kết thúc cuộc gọi, gọi lại số chính thức, và nhắc người thân đề phòng kịch bản tương tự.
+
+Transcript 27 — Domain: tv_show — Tỉnh: Điện Biên
+Số từ: 155
+Từ địa phương: 3 (chẩm-chéo; mắc-khén; Mường-Thanh) | Từ mượn/phiên âm: 0 (—)
+(Tỉnh: Điện Biên)
+Trong lúc đang làm việc, tôi bị kéo vào một tình huống lừa đảo đóng tiền bảo hiểm: người gọi giả danh lãnh đạo công ty yêu cầu nhân viên văn phòng đóng tiền bảo hiểm bắt buộc qua chuyển khoản nhanh hôm nay. Họ đưa ra mã đơn, mã hồ sơ, rồi ép tôi quyết định rất nhanh. Tôi tự đối chiếu bằng kênh chính thống, không làm theo hướng dẫn của người lạ. Nếu họ đưa đường dẫn rút gọn hoặc đòi thông tin nhạy cảm, tôi coi đó là tín hiệu đỏ và dừng lại ngay. Tôi ưu tiên kênh chính thống: ứng dụng của ngân hàng, trang chính thức, hoặc tổng đài công bố công khai. Nghĩ tới quê Điện Biên, tôi nhớ chẩm-chéo, mắc-khén, Mường-Thanh nên càng giữ nhịp chậm và kiểm chứng trước. Tôi ghi lại thời điểm, nội dung, và cách họ thúc ép để rút kinh nghiệm.
+
+Transcript 28 — Domain: announcement — Tỉnh: Hải Phòng
+Số từ: 145
+Từ địa phương: 3 (bánh-đa-cua; nem-cua-bể; dừa-dầm) | Từ mượn/phiên âm: 2 (lô-gin; phây-búc)
+(Tỉnh: Hải Phòng)
+Hôm nay tôi tóm tắt một tình huống lừa đảo lợi dụng sự cố mất an toàn thông tin và bài học tôi rút ra từ đó. Họ xoay quanh các mồi như bảo hiểm xã hội, gian lận, rồi ép tôi quyết định rất nhanh. Tôi chỉ dùng lô-gin, phây-búc để tự đối chiếu, không làm theo hướng dẫn của người lạ. Điểm chung của các cú lừa là họ tạo cảm giác gấp, khiến mình mất thời gian kiểm chứng. Một câu hỏi như 'gửi xác nhận bằng thư điện tử từ tên miền công ty' thường làm kẻ gian lúng túng. Nghĩ tới quê Hải Phòng, tôi nhớ bánh-đa-cua, nem-cua-bể, dừa-dầm nên càng giữ nhịp chậm và kiểm chứng trước. Cuối cùng, tôi kết thúc cuộc gọi, gọi lại số chính thức, và nhắc người thân đề phòng kịch bản tương tự.
+
+Transcript 29 — Domain: street_interview — Tỉnh: Sơn La
+Số từ: 140
+Từ địa phương: 3 (chè-Shan; mận-hậu; cá-suối) | Từ mượn/phiên âm: 2 (in-tơ-nét; mo-mo)
+(Tỉnh: Sơn La)
+Hôm nay tôi tóm tắt một tình huống lừa đảo trúng thưởng và bài học tôi rút ra từ đó. Họ xoay quanh các mồi như rút thăm may mắn, mã mã xác thực, rồi ép tôi quyết định rất nhanh. Tôi chỉ dùng in-tơ-nét, mo-mo để tự đối chiếu, không làm theo hướng dẫn của người lạ. Một câu hỏi như 'gửi xác nhận bằng thư điện tử từ tên miền công ty' thường làm kẻ gian lúng túng. Tôi ghi lại số điện thoại, nội dung họ nói, rồi lưu bằng chứng để báo cáo khi cần. Nghĩ tới quê Sơn La, tôi nhớ chè-Shan, mận-hậu, cá-suối nên càng giữ nhịp chậm và kiểm chứng trước. Cuối cùng, tôi kết thúc cuộc gọi, gọi lại số chính thức, và nhắc người thân đề phòng kịch bản tương tự.
+
+Transcript 30 — Domain: lecture — Tỉnh: Hải Phòng
+Số từ: 141
+Từ địa phương: 3 (nem-cua-bể; bánh-đa-cua; cảng-biển) | Từ mượn/phiên âm: 0 (—)
+(Tỉnh: Hải Phòng)
+Sáng nay tôi gặp một tình huống lừa đảo lợi dụng sự cố mất an toàn thông tin: nhân viên y tế gọi báo hồ sơ khám bệnh bị rò rỉ và giới thiệu dịch vụ bảo mật thu phí. Họ xoay quanh các mồi như đường dẫn thanh toán, chuyển khoản ngân hàng, rồi ép tôi quyết định rất nhanh. Tôi tự đối chiếu bằng kênh chính thống, không làm theo hướng dẫn của người lạ. Tôi ưu tiên kênh chính thống: ứng dụng của ngân hàng, trang chính thức, hoặc tổng đài công bố công khai. Nếu họ đưa đường dẫn rút gọn hoặc đòi thông tin nhạy cảm, tôi coi đó là tín hiệu đỏ và dừng lại ngay. Nghĩ tới quê Hải Phòng, tôi nhớ nem-cua-bể, bánh-đa-cua, cảng-biển nên càng giữ nhịp chậm và kiểm chứng trước.
+
+Transcript 31 — Domain: Weather — Tỉnh: Lai Châu
+Số từ: 150
+Từ địa phương: 3 (măng-đắng; đèo-Ô-Quy-Hồ; chè-Tam-Đường) | Từ mượn/phiên âm: 0 (—)
+(Tỉnh: Lai Châu)
+Trong lúc đang làm việc, tôi bị kéo vào một tình huống lừa đảo đóng phí an sinh xã hội: người gọi tự xưng nhân viên kỹ thuật chính phủ yêu cầu cài đặt ứng dụng để nộp phí an sinh xã hội. Họ xoay quanh các mồi như vay vốn bảo đảm, hồ sơ vay vốn, rồi ép tôi quyết định rất nhanh. Tôi tự đối chiếu bằng kênh chính thống, không làm theo hướng dẫn của người lạ. Một câu hỏi như 'gửi xác nhận bằng thư điện tử từ tên miền công ty' thường làm kẻ gian lúng túng. Tôi tự đặt quy tắc: không đọc mã xác thực, không chuyển tiền vào tài khoản cá nhân, và luôn gọi lại số tổng đài từ nguồn chính thức. Nghĩ tới quê Lai Châu, tôi nhớ măng-đắng, đèo-Ô-Quy-Hồ, chè-Tam-Đường nên càng giữ nhịp chậm và kiểm chứng trước.
+
+Transcript 32 — Domain: read_speech — Tỉnh: Hà Tĩnh
+Số từ: 147
+Từ địa phương: 3 (ram-bánh-mướt; kẹo-lạc; kẹo-cu-đơ) | Từ mượn/phiên âm: 0 (—)
+(Tỉnh: Hà Tĩnh)
+Tôi muốn kể lại một tình huống lừa đảo xuất khẩu lao động mà ai cũng có thể gặp: người gọi tự xưng người thân báo thông tin việc làm ở nước ngoài cho nhóm lao động lớn tại xã. Họ xoay quanh các mồi như số giấy phép, mã đăng ký, rồi ép tôi quyết định rất nhanh. Tôi tự đối chiếu bằng kênh chính thống, không làm theo hướng dẫn của người lạ. Nếu họ đưa đường dẫn rút gọn hoặc đòi thông tin nhạy cảm, tôi coi đó là tín hiệu đỏ và dừng lại ngay. Tôi tự đặt quy tắc: không đọc mã xác thực, không chuyển tiền vào tài khoản cá nhân, và luôn gọi lại số tổng đài từ nguồn chính thức. Nghĩ tới quê Hà Tĩnh, tôi nhớ ram-bánh-mướt, kẹo-lạc, kẹo-cu-đơ nên càng giữ nhịp chậm và kiểm chứng trước.
+
+Transcript 33 — Domain: announcement — Tỉnh: Phú Thọ
+Số từ: 150
+Từ địa phương: 3 (hát-xoan; cọ-om; Đền-Hùng) | Từ mượn/phiên âm: 3 (quờ-rờ; mo-mo; phây-búc)
+(Tỉnh: Phú Thọ)
+Sáng nay tôi gặp một tình huống lừa đảo việc làm: giả danh sàn thương mại gọi yêu cầu kích hoạt đường dẫn bán hàng trước khi nhận hoa hồng. Họ xoay quanh các mồi như payout, tiền hoa hồng, rồi ép tôi quyết định rất nhanh. Tôi chỉ dùng quờ-rờ, mo-mo, phây-búc để tự đối chiếu, không làm theo hướng dẫn của người lạ. Nếu họ đưa đường dẫn rút gọn hoặc đòi thông tin nhạy cảm, tôi coi đó là tín hiệu đỏ và dừng lại ngay. Khi bình tĩnh, mình sẽ thấy câu chuyện thường thiếu hóa đơn, thiếu hợp đồng, hoặc thông tin không khớp. Nghĩ tới quê Phú Thọ, tôi nhớ hát-xoan, cọ-om, Đền-Hùng nên càng giữ nhịp chậm và kiểm chứng trước. Cuối cùng, tôi kết thúc cuộc gọi, gọi lại số chính thức, và nhắc người thân đề phòng kịch bản tương tự.
+
+Transcript 34 — Domain: documentary — Tỉnh: Quảng Ninh
+Số từ: 148
+Từ địa phương: 3 (ngán; sá-sùng; Hạ-Long) | Từ mượn/phiên âm: 1 (gia-lô)
+(Tỉnh: Quảng Ninh)
+Tôi muốn kể lại một tình huống lừa đảo cài ứng dụng độc hại mà ai cũng có thể gặp: người bán đồ cũ online nhận cuộc gọi mời cài ứng dụng phát trực tiếp bán hàng từ hỗ trợ giả mạo. Họ xoay quanh các mồi như lộ thông tin, lừa đảo, rồi ép tôi quyết định rất nhanh. Tôi chỉ dùng gia-lô để tự đối chiếu, không làm theo hướng dẫn của người lạ. Tôi tự đặt quy tắc: không đọc mã xác thực, không chuyển tiền vào tài khoản cá nhân, và luôn gọi lại số tổng đài từ nguồn chính thức. Nếu họ đưa đường dẫn rút gọn hoặc đòi thông tin nhạy cảm, tôi coi đó là tín hiệu đỏ và dừng lại ngay. Nghĩ tới quê Quảng Ninh, tôi nhớ ngán, sá-sùng, Hạ-Long nên càng giữ nhịp chậm và kiểm chứng trước.
+
+Transcript 35 — Domain: documentary — Tỉnh: Lai Châu
+Số từ: 148
+Từ địa phương: 3 (măng-đắng; chợ-Tam-Đường; đèo-Ô-Quy-Hồ) | Từ mượn/phiên âm: 0 (—)
+(Tỉnh: Lai Châu)
+Hôm nay tôi tóm tắt một tình huống lừa đảo đóng phí an sinh xã hội và bài học tôi rút ra từ đó. Họ xoay quanh các mồi như phí xác minh, khóa tài khoản, rồi ép tôi quyết định rất nhanh. Tôi tự đối chiếu bằng kênh chính thống, không làm theo hướng dẫn của người lạ. Điểm chung của các cú lừa là họ tạo cảm giác gấp, khiến mình mất thời gian kiểm chứng. Tôi tự đặt quy tắc: không đọc mã xác thực, không chuyển tiền vào tài khoản cá nhân, và luôn gọi lại số tổng đài từ nguồn chính thức. Nghĩ tới quê Lai Châu, tôi nhớ măng-đắng, chợ-Tam-Đường, đèo-Ô-Quy-Hồ nên càng giữ nhịp chậm và kiểm chứng trước. Cuối cùng, tôi kết thúc cuộc gọi, gọi lại số chính thức, và nhắc người thân đề phòng kịch bản tương tự.
+
+Transcript 36 — Domain: casualcasual_conversation — Tỉnh: Hải Phòng
+Số từ: 151
+Từ địa phương: 3 (nem-cua-bể; cảng-biển; dừa-dầm) | Từ mượn/phiên âm: 1 (in-tơ-nét)
+(Tỉnh: Hải Phòng)
+Tôi muốn kể lại một tình huống lừa đảo vay vốn mà ai cũng có thể gặp: lời mời vay nhanh cho freelancer hứa giải ngân trong ngày nếu nộp phí thẩm định. Họ xoay quanh các mồi như mã mã xác thực, quyền ghi âm, rồi ép tôi quyết định rất nhanh. Tôi chỉ dùng in-tơ-nét để tự đối chiếu, không làm theo hướng dẫn của người lạ. Tôi ưu tiên kênh chính thống: ứng dụng của ngân hàng, trang chính thức, hoặc tổng đài công bố công khai. Khi bình tĩnh, mình sẽ thấy câu chuyện thường thiếu hóa đơn, thiếu hợp đồng, hoặc thông tin không khớp. Nghĩ tới quê Hải Phòng, tôi nhớ nem-cua-bể, cảng-biển, dừa-dầm nên càng giữ nhịp chậm và kiểm chứng trước. Cuối cùng, tôi kết thúc cuộc gọi, gọi lại số chính thức, và nhắc người thân đề phòng kịch bản tương tự.
+
+Transcript 37 — Domain: narration — Tỉnh: Hà Nội
+Số từ: 153
+Từ địa phương: 3 (cốm-làng-Vòng; phố-cổ; bún-thang) | Từ mượn/phiên âm: 0 (—)
+(Tỉnh: Hà Nội)
+Sáng nay tôi gặp một tình huống lừa đảo cài ứng dụng độc hại: bác sĩ trẻ bị gọi từ số lạ mời cài ứng dụng đặt lịch khám để quản lý bệnh nhân. Họ xoay quanh các mồi như lừa đảo, mất an toàn thông tin, rồi ép tôi quyết định rất nhanh. Tôi tự đối chiếu bằng kênh chính thống, không làm theo hướng dẫn của người lạ. Một câu hỏi như 'gửi xác nhận bằng thư điện tử từ tên miền công ty' thường làm kẻ gian lúng túng. Khi bình tĩnh, mình sẽ thấy câu chuyện thường thiếu hóa đơn, thiếu hợp đồng, hoặc thông tin không khớp. Nghĩ tới quê Hà Nội, tôi nhớ cốm-làng-Vòng, phố-cổ, bún-thang nên càng giữ nhịp chậm và kiểm chứng trước. Cuối cùng, tôi kết thúc cuộc gọi, gọi lại số chính thức, và nhắc người thân đề phòng kịch bản tương tự.
+
+Transcript 38 — Domain: lecture — Tỉnh: Quảng Ninh
+Số từ: 148
+Từ địa phương: 3 (sá-sùng; Hạ-Long; ngán) | Từ mượn/phiên âm: 2 (quờ-rờ; mo-mo)
+(Tỉnh: Quảng Ninh)
+Sáng nay tôi gặp một tình huống lừa đảo tống tiền phát tán hình ảnh: tống tiền qua điện thoại đến bác sĩ với lời dọa tung ảnh lên trang tuyển dụng. Họ xoay quanh các mồi như clip, thanh toán, rồi ép tôi quyết định rất nhanh. Tôi chỉ dùng quờ-rờ, mo-mo để tự đối chiếu, không làm theo hướng dẫn của người lạ. Khi bình tĩnh, mình sẽ thấy câu chuyện thường thiếu hóa đơn, thiếu hợp đồng, hoặc thông tin không khớp. Một câu hỏi như 'gửi xác nhận bằng thư điện tử từ tên miền công ty' thường làm kẻ gian lúng túng. Nghĩ tới quê Quảng Ninh, tôi nhớ sá-sùng, Hạ-Long, ngán nên càng giữ nhịp chậm và kiểm chứng trước. Cuối cùng, tôi kết thúc cuộc gọi, gọi lại số chính thức, và nhắc người thân đề phòng kịch bản tương tự.
+
+Transcript 39 — Domain: announcement — Tỉnh: Nghệ An
+Số từ: 143
+Từ địa phương: 3 (cháo-lươn; nhút-Thanh-Chương; giò-bê) | Từ mượn/phiên âm: 0 (—)
+(Tỉnh: Nghệ An)
+Hôm nay tôi tóm tắt một tình huống lừa đảo xuất khẩu lao động và bài học tôi rút ra từ đó. Họ xoay quanh các mồi như xin mã xác thực, trợ cấp hỗ trợ, rồi ép tôi quyết định rất nhanh. Tôi tự đối chiếu bằng kênh chính thống, không làm theo hướng dẫn của người lạ. Nếu họ đưa đường dẫn rút gọn hoặc đòi thông tin nhạy cảm, tôi coi đó là tín hiệu đỏ và dừng lại ngay. Điểm chung của các cú lừa là họ tạo cảm giác gấp, khiến mình mất thời gian kiểm chứng. Nghĩ tới quê Nghệ An, tôi nhớ cháo-lươn, nhút-Thanh-Chương, giò-bê nên càng giữ nhịp chậm và kiểm chứng trước. Cuối cùng, tôi kết thúc cuộc gọi, gọi lại số chính thức, và nhắc người thân đề phòng kịch bản tương tự.
+
+Transcript 40 — Domain: news — Tỉnh: Điện Biên
+Số từ: 155
+Từ địa phương: 3 (chẩm-chéo; mắc-khén; xôi-nếp-nương) | Từ mượn/phiên âm: 0 (—)
+(Tỉnh: Điện Biên)
+Sáng nay tôi gặp một tình huống lừa đảo xuất khẩu lao động: người cao tuổi nhận cuộc gọi kiểm tra hồ sơ xuất khẩu lao động nhưng kẻ xấu cố gắng xin mã mã xác thực ngân hàng. Họ xoay quanh các mồi như hỗ trợ đào tạo, chuyển lại, rồi ép tôi quyết định rất nhanh. Tôi tự đối chiếu bằng kênh chính thống, không làm theo hướng dẫn của người lạ. Tôi ghi lại số điện thoại, nội dung họ nói, rồi lưu bằng chứng để báo cáo khi cần. Tôi ưu tiên kênh chính thống: ứng dụng của ngân hàng, trang chính thức, hoặc tổng đài công bố công khai. Nghĩ tới quê Điện Biên, tôi nhớ chẩm-chéo, mắc-khén, xôi-nếp-nương nên càng giữ nhịp chậm và kiểm chứng trước. Cuối cùng, tôi kết thúc cuộc gọi, gọi lại số chính thức, và nhắc người thân đề phòng kịch bản tương tự.
+
+Transcript 41 — Domain: talk_show — Tỉnh: Thái Nguyên
+Số từ: 153
+Từ địa phương: 3 (đồi-chè; chè-móc-câu; Tân-Cương) | Từ mượn/phiên âm: 2 (mo-mo; xì-trát)
+(Tỉnh: Thái Nguyên)
+Hôm nay tôi tóm tắt một tình huống lừa đảo đóng tiền bảo hiểm và bài học tôi rút ra từ đó. Họ xoay quanh các mồi như đường dẫn lừa đảo, lừa đảo, rồi ép tôi quyết định rất nhanh. Tôi chỉ dùng mo-mo, xì-trát để tự đối chiếu, không làm theo hướng dẫn của người lạ. Điểm chung của các cú lừa là họ tạo cảm giác gấp, khiến mình mất thời gian kiểm chứng. Khi bình tĩnh, mình sẽ thấy câu chuyện thường thiếu hóa đơn, thiếu hợp đồng, hoặc thông tin không khớp. Nghĩ tới quê Thái Nguyên, tôi nhớ đồi-chè, chè-móc-câu, Tân-Cương nên càng giữ nhịp chậm và kiểm chứng trước. Cuối cùng, tôi kết thúc cuộc gọi, gọi lại số chính thức, và nhắc người thân đề phòng kịch bản tương tự. Chỉ cần chậm vài chục giây để đối chiếu là tránh được rủi ro lớn.
+
+Transcript 42 — Domain: read_speech — Tỉnh: Thái Nguyên
+Số từ: 144
+Từ địa phương: 3 (chợ-phiên; đồi-chè; Tân-Cương) | Từ mượn/phiên âm: 1 (in-tơ-nét)
+(Tỉnh: Thái Nguyên)
+Trong lúc đang làm việc, tôi bị kéo vào một tình huống lừa đảo ứng dụng sử dụng ví trả sau, ví điện tử: cuộc gọi đêm thông báo giao dịch bất thường trên ví trả sau của một bà mẹ có con nhỏ. Họ xoay quanh các mồi như tin nhắn hướng dẫn, bảo mật hệ thống, rồi ép tôi quyết định rất nhanh. Tôi chỉ dùng in-tơ-nét để tự đối chiếu, không làm theo hướng dẫn của người lạ. Khi bình tĩnh, mình sẽ thấy câu chuyện thường thiếu hóa đơn, thiếu hợp đồng, hoặc thông tin không khớp. Nếu họ đưa đường dẫn rút gọn hoặc đòi thông tin nhạy cảm, tôi coi đó là tín hiệu đỏ và dừng lại ngay. Nghĩ tới quê Thái Nguyên, tôi nhớ chợ-phiên, đồi-chè, Tân-Cương nên càng giữ nhịp chậm và kiểm chứng trước.
+
+Transcript 43 — Domain: meeting — Tỉnh: Lào Cai
+Số từ: 148
+Từ địa phương: 3 (chợ-Bắc-Hà; Sa-Pa; rượu-ngô) | Từ mượn/phiên âm: 0 (—)
+(Tỉnh: Lào Cai)
+Hôm nay tôi tóm tắt một tình huống lừa đảo tặng quà từ các sàn thương mại điển tử, nhãn hàng và bài học tôi rút ra từ đó. Họ xoay quanh các mồi như tặng phiếu quà, xác minh số, rồi ép tôi quyết định rất nhanh. Tôi tự đối chiếu bằng kênh chính thống, không làm theo hướng dẫn của người lạ. Điểm chung của các cú lừa là họ tạo cảm giác gấp, khiến mình mất thời gian kiểm chứng. Nếu họ đưa đường dẫn rút gọn hoặc đòi thông tin nhạy cảm, tôi coi đó là tín hiệu đỏ và dừng lại ngay. Nghĩ tới quê Lào Cai, tôi nhớ chợ-Bắc-Hà, Sa-Pa, rượu-ngô nên càng giữ nhịp chậm và kiểm chứng trước. Cuối cùng, tôi kết thúc cuộc gọi, gọi lại số chính thức, và nhắc người thân đề phòng kịch bản tương tự.
+
+Transcript 44 — Domain: lecture — Tỉnh: Hà Tĩnh
+Số từ: 146
+Từ địa phương: 3 (ram-bánh-mướt; Hồng-Lĩnh; kẹo-lạc) | Từ mượn/phiên âm: 3 (xì-trát; lô-gin; gia-lô)
+(Tỉnh: Hà Tĩnh)
+Trong lúc đang làm việc, tôi bị kéo vào một tình huống lừa đảo ứng dụng sử dụng ví trả sau, ví điện tử: kẻ gian giả danh bạn bè nhờ chuyển tiền qua ví trả sau cho người lớn tuổi sống một mình. Họ xoay quanh các mồi như đồng ý tạm ứng, lỗi tài khoản, rồi ép tôi quyết định rất nhanh. Tôi chỉ dùng xì-trát, lô-gin, gia-lô để tự đối chiếu, không làm theo hướng dẫn của người lạ. Nếu họ đưa đường dẫn rút gọn hoặc đòi thông tin nhạy cảm, tôi coi đó là tín hiệu đỏ và dừng lại ngay. Tôi ưu tiên kênh chính thống: ứng dụng của ngân hàng, trang chính thức, hoặc tổng đài công bố công khai. Nghĩ tới quê Hà Tĩnh, tôi nhớ ram-bánh-mướt, Hồng-Lĩnh, kẹo-lạc nên càng giữ nhịp chậm và kiểm chứng trước.
+
+Transcript 45 — Domain: tv_show — Tỉnh: Thanh Hóa
+Số từ: 154
+Từ địa phương: 3 (nem-chua; bánh-răng-bừa; Sầm-Sơn) | Từ mượn/phiên âm: 2 (in-tơ-nét; lô-gin)
+(Tỉnh: Thanh Hóa)
+Tôi muốn kể lại một tình huống lừa đảo tống tiền phát tán hình ảnh mà ai cũng có thể gặp: kẻ lừa mạo làm luật sư, đe dọa phát tán ảnh trên các diễn đàn chuyên ngành. Họ xoay quanh các mồi như bằng chứng hình ảnh, cam kết bảo mật, rồi ép tôi quyết định rất nhanh. Tôi chỉ dùng in-tơ-nét, lô-gin để tự đối chiếu, không làm theo hướng dẫn của người lạ. Nếu họ đưa đường dẫn rút gọn hoặc đòi thông tin nhạy cảm, tôi coi đó là tín hiệu đỏ và dừng lại ngay. Khi bình tĩnh, mình sẽ thấy câu chuyện thường thiếu hóa đơn, thiếu hợp đồng, hoặc thông tin không khớp. Nghĩ tới quê Thanh Hóa, tôi nhớ nem-chua, bánh-răng-bừa, Sầm-Sơn nên càng giữ nhịp chậm và kiểm chứng trước. Chỉ cần chậm vài chục giây để đối chiếu là tránh được rủi ro lớn.
+
+Transcript 46 — Domain: public_speech — Tỉnh: Bắc Ninh
+Số từ: 158
+Từ địa phương: 3 (bánh-phu-thê; nem-Bùi; quan-họ) | Từ mượn/phiên âm: 3 (lô-gin; mo-mo; quờ-rờ)
+(Tỉnh: Bắc Ninh)
+Trong lúc đang làm việc, tôi bị kéo vào một tình huống lừa đảo việc làm: gọi người lao động nông thôn mời làm online chia sẻ đường dẫn thanh toán qua ví. Họ xoay quanh các mồi như nhận hoa hồng, lừa đảo, rồi ép tôi quyết định rất nhanh. Tôi chỉ dùng lô-gin, mo-mo, quờ-rờ để tự đối chiếu, không làm theo hướng dẫn của người lạ. Tôi tự đặt quy tắc: không đọc mã xác thực, không chuyển tiền vào tài khoản cá nhân, và luôn gọi lại số tổng đài từ nguồn chính thức. Tôi ghi lại số điện thoại, nội dung họ nói, rồi lưu bằng chứng để báo cáo khi cần. Nghĩ tới quê Bắc Ninh, tôi nhớ bánh-phu-thê, nem-Bùi, quan-họ nên càng giữ nhịp chậm và kiểm chứng trước. Cuối cùng, tôi kết thúc cuộc gọi, gọi lại số chính thức, và nhắc người thân đề phòng kịch bản tương tự.
+
+Transcript 47 — Domain: podcast — Tỉnh: Tuyên Quang
+Số từ: 152
+Từ địa phương: 3 (cam-sành; Thành-Tuyên; Na-Hang) | Từ mượn/phiên âm: 1 (ô-tê-pê)
+(Tỉnh: Tuyên Quang)
+Trong lúc đang làm việc, tôi bị kéo vào một tình huống lừa đảo tống tiền phát tán hình ảnh: kẻ lừa nói đã mua dữ liệu từ hẹn hò trực tuyến và đòi tiền chuộc. Họ xoay quanh các mồi như chuyển khoản, hình ảnh private, rồi ép tôi quyết định rất nhanh. Tôi chỉ dùng ô-tê-pê để tự đối chiếu, không làm theo hướng dẫn của người lạ. Khi bình tĩnh, mình sẽ thấy câu chuyện thường thiếu hóa đơn, thiếu hợp đồng, hoặc thông tin không khớp. Tôi ưu tiên kênh chính thống: ứng dụng của ngân hàng, trang chính thức, hoặc tổng đài công bố công khai. Nghĩ tới quê Tuyên Quang, tôi nhớ cam-sành, Thành-Tuyên, Na-Hang nên càng giữ nhịp chậm và kiểm chứng trước. Cuối cùng, tôi kết thúc cuộc gọi, gọi lại số chính thức, và nhắc người thân đề phòng kịch bản tương tự.
+
+Transcript 48 — Domain: podcast — Tỉnh: Bắc Ninh
+Số từ: 159
+Từ địa phương: 3 (nem-Bùi; quan-họ; đình-làng) | Từ mượn/phiên âm: 0 (—)
+(Tỉnh: Bắc Ninh)
+Tôi muốn kể lại một tình huống lừa đảo sử dụng trang trang mạng giả mạo mà ai cũng có thể gặp: chủ nhà nhận cuộc gọi từ 'cơ quan' yêu cầu đóng phạt qua trang thanh toán giả mạo. Họ xoay quanh các mồi như xử phạt hành chính, thanh toán trực tuyến, rồi ép tôi quyết định rất nhanh. Tôi tự đối chiếu bằng kênh chính thống, không làm theo hướng dẫn của người lạ. Điểm chung của các cú lừa là họ tạo cảm giác gấp, khiến mình mất thời gian kiểm chứng. Một câu hỏi như 'gửi xác nhận bằng thư điện tử từ tên miền công ty' thường làm kẻ gian lúng túng. Nghĩ tới quê Bắc Ninh, tôi nhớ nem-Bùi, quan-họ, đình-làng nên càng giữ nhịp chậm và kiểm chứng trước. Cuối cùng, tôi kết thúc cuộc gọi, gọi lại số chính thức, và nhắc người thân đề phòng kịch bản tương tự.
+
+Transcript 49 — Domain: public_speech — Tỉnh: Tuyên Quang
+Số từ: 158
+Từ địa phương: 3 (Thành-Tuyên; cam-sành; bánh-gai) | Từ mượn/phiên âm: 0 (—)
+(Tỉnh: Tuyên Quang)
+Trong lúc đang làm việc, tôi bị kéo vào một tình huống lừa đảo phòng cháy chữa cháy: số lạ gọi báo khẩn về nguy cơ cháy tại trạm xăng, bảo nhân viên chuyển tiền để kiểm tra hệ thống. Họ xoay quanh các mồi như báo cáo khẩn, quét hệ thống điện, rồi ép tôi quyết định rất nhanh. Tôi tự đối chiếu bằng kênh chính thống, không làm theo hướng dẫn của người lạ. Khi bình tĩnh, mình sẽ thấy câu chuyện thường thiếu hóa đơn, thiếu hợp đồng, hoặc thông tin không khớp. Tôi ưu tiên kênh chính thống: ứng dụng của ngân hàng, trang chính thức, hoặc tổng đài công bố công khai. Nghĩ tới quê Tuyên Quang, tôi nhớ Thành-Tuyên, cam-sành, bánh-gai nên càng giữ nhịp chậm và kiểm chứng trước. Cuối cùng, tôi kết thúc cuộc gọi, gọi lại số chính thức, và nhắc người thân đề phòng kịch bản tương tự.
+
+Transcript 50 — Domain: casualcasual_conversation — Tỉnh: Tuyên Quang
+Số từ: 154
+Từ địa phương: 3 (Thành-Tuyên; Na-Hang; cam-sành) | Từ mượn/phiên âm: 0 (—)
+(Tỉnh: Tuyên Quang)
+Sáng nay tôi gặp một tình huống lừa đảo đóng tiền bảo hiểm: nhân viên nhà mạng thông báo dữ liệu thanh toán bị lộ và yêu cầu đọc số thẻ để 'xác minh'. Họ xoay quanh các mồi như gói bảo hiểm, yêu cầu thanh toán lạ, rồi ép tôi quyết định rất nhanh. Tôi tự đối chiếu bằng kênh chính thống, không làm theo hướng dẫn của người lạ. Khi bình tĩnh, mình sẽ thấy câu chuyện thường thiếu hóa đơn, thiếu hợp đồng, hoặc thông tin không khớp. Tôi tự đặt quy tắc: không đọc mã xác thực, không chuyển tiền vào tài khoản cá nhân, và luôn gọi lại số tổng đài từ nguồn chính thức. Nghĩ tới quê Tuyên Quang, tôi nhớ Thành-Tuyên, Na-Hang, cam-sành nên càng giữ nhịp chậm và kiểm chứng trước. Chỉ cần chậm vài chục giây để đối chiếu là tránh được rủi ro lớn.
+
